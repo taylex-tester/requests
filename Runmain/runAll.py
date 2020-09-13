@@ -1,5 +1,9 @@
 import unittest
+<<<<<<< HEAD
 from Common import HTMLTestRunner
+=======
+from HTMLTestRunner import HTMLTestRunner
+>>>>>>> 3844286a40da226ec37809448b36ca460b06ee04
 from Util.basePath import os, base_path
 from Common.sendEmail import sendEmail
 from Common.logger import Logger

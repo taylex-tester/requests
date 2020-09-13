@@ -1,6 +1,14 @@
 import json
+<<<<<<< HEAD
 import ddt
 import unittest
+=======
+import os
+import ddt
+import unittest
+from HTMLTestRunner import HTMLTestRunner
+from Util.basePath import base_path
+>>>>>>> 3844286a40da226ec37809448b36ca460b06ee04
 from Util.readExcel import readExcel
 from Util.sendRequest import request
 from Common.readConfig import readConfig
