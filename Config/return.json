@@ -1,0 +1,6 @@
+{
+  "null": {"message": "LoginInfo is NULL"},
+  "error": {"message": "LoginInfo is WRONG"},
+  "success": {"message": "Success"},
+  "error2": {"message": "username is exist"}
+}

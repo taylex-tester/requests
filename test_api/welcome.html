@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<body>
+    <center>
+        <!--
+        <a href="http://www.baidu.com">百度</a><hr/>
+        !-->
+        <h3><font color="Orange" size="6"> WELCOME!</font></h3><hr/>
+        <br/>
+        <form action="http://127.0.0.1:5000/login" method="get">
+            <span><font color="Red" size="3"> GET</font></span><br/>
+            账号:
+            <input type="text" name="username"/><br/>
+            密码:
+            <input type="password" name="password"/>
+            <br/>
+            <br/>
+            <input type="submit" value="登陆"/>
+        </form>
+        <br/><hr/>
+        <form action="http://127.0.0.1:5000/register" method="post">
+            <span><font color="Red" size="3"> POST</font></span><br/>
+            账号:
+            <input type="text" name="username"/><br/>
+            密码:
+            <input type="password" name="password"/>
+            <br/>
+            <br/>
+            <input type="submit" value="注册"/>
+        </form>
+    </center>
+
+</body>
+</html>

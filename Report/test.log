@@ -1,0 +1,5 @@
+2020-09-06 11:13:51,220-/Users/taylex/study/aotu_test/Common/logger.py[line:34]-INFO-123123
+2020-09-06 11:13:51,220-/Users/taylex/study/aotu_test/Common/logger.py[line:35]-DEBUG-123123
+2020-09-06 11:15:18,637-/Users/taylex/study/aotu_test/Common/logger.py[line:34]-INFO-123123
+2020-09-06 11:15:18,640-/Users/taylex/study/aotu_test/Common/logger.py[line:35]-DEBUG-123123
+2020-09-06 11:15:18,640-/Users/taylex/study/aotu_test/Common/logger.py[line:36]-WARNING-123
